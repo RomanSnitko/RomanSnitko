@@ -18,6 +18,7 @@ I am software engineer with a deep love for programming and problem-solving. I e
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?logo=gnometerminal&logoColor=white)
 
 
+## 📊 GitHub Stats:
 
 [![](https://raw.githubusercontent.com/RomanSnitko/RomanSnitko/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/RomanSnitko/RomanSnitko/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
