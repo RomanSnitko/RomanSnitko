@@ -1,7 +1,6 @@
 # Hi, I'm Roman!
 
-I am a student with a deep love for programming and problem-solving.  
-I enjoy creating tools, optimizing solutions, and tackling challenging tasks 🚀.
+I am software engineer with a deep love for programming and problem-solving. I enjoy tackling a wide range of projects across various languages and technologies ❤️. Whether it's creating new tools, optimizing existing solutions, or diving into complex challenges, I’m committed to seeing projects through from start to finish 🚀. I’m always on the lookout for like-minded enthusiasts who share the drive for learning and building innovative solutions.
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/@romud)
@@ -10,6 +9,7 @@ I enjoy creating tools, optimizing solutions, and tackling challenging tasks �
 ## 🚀 Languages and Tools I Use:
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
