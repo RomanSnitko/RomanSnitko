@@ -16,6 +16,8 @@ I am software engineer with a deep love for programming and problem-solving. I e
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?logo=gnometerminal&logoColor=white)
+![QML](https://img.shields.io/badge/QML-44A8B2?logo=qt&logoColor=white)
+
 
 
 ## 📊 GitHub Stats:
