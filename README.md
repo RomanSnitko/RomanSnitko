@@ -1,6 +1,6 @@
 # Hi, I'm Roman!
 
-I am software engineer with a deep love for programming and problem-solving. I enjoy tackling a wide range of projects across various languages and technologies ❤️. Whether it's creating new tools, optimizing existing solutions, or diving into complex challenges, I’m committed to seeing projects through from start to finish 🚀. I’m always on the lookout for like-minded enthusiasts who share the drive for learning and building innovative solutions.
+I'm a software engineering student with a deep passion for programming. I enjoy C++ programming in all standards, optimizing existing solutions, and solving complex problems. I'm eager to learn new things and apply them in practice ❤️.
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/@romud)
