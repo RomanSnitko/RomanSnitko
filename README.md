@@ -24,3 +24,4 @@ I'm a software engineering student with a deep passion for programming. I enjoy 
 ![HTTP](https://img.shields.io/badge/HTTP-FF6F00?logo=http&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-005571?logo=api&logoColor=white)
 ![UDP](https://img.shields.io/badge/UDP-1E90FF?logo=protocols&logoColor=white)
+![ICMP](https://img.shields.io/badge/ICMP-0096D6?logo=protocols&logoColor=white)
