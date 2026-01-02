@@ -18,11 +18,3 @@ I'm a software engineering student with a deep passion for programming. I enjoy 
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?logo=gnometerminal&logoColor=white)
 ![QML](https://img.shields.io/badge/QML-44A8B2?logo=qt&logoColor=white)
-
-
-
-## 📊 GitHub Stats:
-
-[![](https://raw.githubusercontent.com/RomanSnitko/RomanSnitko/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/RomanSnitko/RomanSnitko/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/RomanSnitko/RomanSnitko/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
