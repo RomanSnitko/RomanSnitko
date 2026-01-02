@@ -6,7 +6,7 @@ I'm a software engineering student with a deep passion for programming. I enjoy 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/@romud)
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](gmailto:romsnitko@gmail.com)
 
-## 🚀 Languages and Tools I Use:
+## 🚀 Languages and Tools:
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
@@ -18,3 +18,9 @@ I'm a software engineering student with a deep passion for programming. I enjoy 
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?logo=gnometerminal&logoColor=white)
 ![QML](https://img.shields.io/badge/QML-44A8B2?logo=qt&logoColor=white)
+
+## 🌐 Networking Tools:
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0A66C2?logo=protocols&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-FF6F00?logo=http&logoColor=white)
+![REST](https://img.shields.io/badge/REST-005571?logo=api&logoColor=white)
+![UDP](https://img.shields.io/badge/UDP-1E90FF?logo=protocols&logoColor=white)
