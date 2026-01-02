@@ -26,3 +26,5 @@ I'm a software engineering student with a deep passion for programming. I enjoy 
 ![UDP](https://img.shields.io/badge/UDP-1E90FF?logo=protocols&logoColor=white)
 ![ICMP](https://img.shields.io/badge/ICMP-0096D6?logo=protocols&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Mininet](https://img.shields.io/badge/Mininet-2C5BB4?logo=linux&logoColor=white)
+
