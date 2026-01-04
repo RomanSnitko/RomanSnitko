@@ -18,8 +18,6 @@ I'm a software engineering student with a deep passion for programming. I enjoy 
 ![QML](https://img.shields.io/badge/QML-44A8B2?logo=qt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Docker%20Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
-![Boost.Asio](https://img.shields.io/badge/Boost.Asio-Networking-00599C)
-![Boost.Beast](https://img.shields.io/badge/Boost.Beast-HTTP-00599C)
 
 ## Networking Tools:
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0A66C2?logo=protocols&logoColor=white)
@@ -29,4 +27,5 @@ I'm a software engineering student with a deep passion for programming. I enjoy 
 ![ICMP](https://img.shields.io/badge/ICMP-0096D6?logo=protocols&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Mininet](https://img.shields.io/badge/Mininet-2C5BB4?logo=linux&logoColor=white)
-
+![Boost.Asio](https://img.shields.io/badge/Boost.Asio-Networking-00599C)
+![Boost.Beast](https://img.shields.io/badge/Boost.Beast-HTTP-00599C)
