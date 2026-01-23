@@ -1,4 +1,5 @@
-# Hi, I'm Roman! C++ Backend and System Developer.
+# Hi, I'm Roman! 
+C++ Backend and System Developer.
 
 I'm a software engineering student with a deep passion for programming. I enjoy C++ programming in all standards, optimizing existing solutions, and solving complex problems. I'm eager to learn new things and apply them in practice ❤️.
 
