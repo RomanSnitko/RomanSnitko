@@ -1,7 +1,7 @@
 # Hi, I'm Roman! 
 C++&Python Backend and System Developer.
 
-I'm a software engineering student with a deep passion for programming. I enjoy C++ programming in all standards, optimizing existing solutions, and solving complex problems. I'm eager to learn new things and apply them in practice ❤️.
+I'm a software engineering with a deep passion for programming. I enjoy C++ programming in all standards, optimizing existing solutions, and solving complex problems. I'm eager to learn new things and apply them in practice ❤️.
 
 ## Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/@romud)
