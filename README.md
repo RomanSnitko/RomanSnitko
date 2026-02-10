@@ -1,5 +1,5 @@
 # Hi, I'm Roman! 
-C++&Python Backend and System Developer.
+C++&Python System/Backend Developer.
 
 I'm a software engineering with a deep passion for programming. I enjoy C++ programming in all standards, optimizing existing solutions, and solving complex problems. I'm eager to learn new things and apply them in practice ❤️.
 
