@@ -1,6 +1,6 @@
 # Hi, I'm Roman! 
 
-I'm a software developer in the direction of high-performance network systems.
+I'm a software System Engineer in the direction of high-performance network systems.
 
 ## Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/@romud)
