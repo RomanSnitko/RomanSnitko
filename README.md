@@ -2,7 +2,7 @@
 
 I'm a Software System Engineer in the direction of high-performance network systems.
 
-<img width="500" height="220" alt="IMG_9590" src="https://github.com/user-attachments/assets/0f00f2d7-9912-428b-995f-4a536e48c4f4" />
+<img width="402" height="343" alt="IMG_9590 (1)" src="https://github.com/user-attachments/assets/4cfe5285-e20e-4d58-9bf5-8ad6027d05dd" />
 
 ## Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/@romud)
