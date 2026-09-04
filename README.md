@@ -1,7 +1,3 @@
-# Hi, I'm Roman! 
-
-I'm a Software System Engineer in the direction of high-performance network systems.
-
 <table>
   <tr>
     <td valign="top" width="420">
