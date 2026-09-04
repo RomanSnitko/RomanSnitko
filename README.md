@@ -2,8 +2,6 @@
 
 I'm a Software System Engineer in the direction of high-performance network systems.
 
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/e63931d8-eba4-462e-b3cb-a8497a579139" />
-
 ## Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/@romud)
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](gmailto:romsnitko@gmail.com)
