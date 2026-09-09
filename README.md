@@ -16,7 +16,7 @@ I'm a C++ Software Engineer focused on high-performance systems, networking, and
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## Networking & DPI
+## Networking
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0A66C2)
 ![UDP](https://img.shields.io/badge/UDP-1E90FF)
