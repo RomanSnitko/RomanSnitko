@@ -5,16 +5,18 @@ I'm a C++ Software Engineer focused on high-performance systems, networking, and
 ## Languages and Systems Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
-![Boost](https://img.shields.io/badge/Boost-Libraries-00599C?logo=c%2B%2B&logoColor=white)
-![userver](https://img.shields.io/badge/userver-framework-black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Boost](https://img.shields.io/badge/Boost-Libraries-00599C?logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+![userver](https://img.shields.io/badge/userver-framework-black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 
 ## Networking
 
@@ -37,9 +39,9 @@ I'm a C++ Software Engineer focused on high-performance systems, networking, and
 ## Performance Engineering
 
 ![Multithreading](https://img.shields.io/badge/Multithreading-C++-00599C)
-![SIMD](https://img.shields.io/badge/SIMD-Vectorization-6A5ACD)
 ![Memory](https://img.shields.io/badge/Memory-Management-8B4513)
 ![Allocators](https://img.shields.io/badge/Custom-Allocators-708090)
+![SIMD](https://img.shields.io/badge/SIMD-Vectorization-6A5ACD)
 ![Zero Copy](https://img.shields.io/badge/Zero--Copy-Processing-008080)
 ![Profiling](https://img.shields.io/badge/Performance-Profiling-B22222)
 ![Linux Perf](https://img.shields.io/badge/Linux-perf-FCC624?logo=linux&logoColor=black)
