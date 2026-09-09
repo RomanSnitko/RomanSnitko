@@ -1,6 +1,6 @@
 # Hi, I'm Roman!
 
-I'm a C++ Software Engineer focused on high-performance systems, networking, and traffic processing.
+I'm a C++ Software System Engineer focused on high-performance systems, networking, and traffic processing.
 
 ## Languages and Systems Tools
 
