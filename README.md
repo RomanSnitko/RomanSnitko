@@ -51,10 +51,10 @@ I'm a C++ Software Engineer focused on high-performance systems, networking, and
 
 Alongside my main work, I'm currently building a **C++ inference engine**, focusing on:
 
-- applied linear algebra and numerical computing;
-- memory management, cache locality, and custom allocators;
-- SIMD and CPU-level optimization;
-- multithreading and efficient runtime design.
+- applied linear algebra and execution planning;
+- memory management and custom allocators;
+- multithreaded CPU execution and profiling;
+- SIMD-optimized compute kernels, ect...
 
 ## Socials
 
