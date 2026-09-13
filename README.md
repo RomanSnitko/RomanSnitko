@@ -2,8 +2,6 @@
 
 I'm a C++ Software System Engineer focused on high-performance systems, networking, and traffic processing.
 
-![Profile views](https://komarev.com/ghpvc/?username=RomanSnitko)
-
 ## Socials
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/romud)
