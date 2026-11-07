@@ -1,1 +1,1 @@
-![sticker](assets/sticker.gif)
+
